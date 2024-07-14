@@ -1,1 +1,2 @@
 # HR-Analytics-Power-Bi-Dashboard
+I have created a Power BI dashboard focused on HR data to gain key insights about company employees. This dashboard provides a comprehensive view of employee performance, recruitment, attendance, and attrition rates through interactive visualizations and reports. It enables HR professionals and managers to make informed decisions, optimize workforce planning, and enhance overall organizational performance by leveraging data-driven insights.
